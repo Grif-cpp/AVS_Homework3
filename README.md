@@ -4,7 +4,9 @@ Cобирал проект так:
 Команды для консоли Windows:                                                
 pyinstaller main.py Container.py Films\Cartoon.py Films\Documental.py Films\Film.py Films\Gaming.py  
 
-.\dist\main\main -f tests\test01.txt answers\answ01.txt
+.\dist\main\main -f tests\test01.txt answers\answ01.txt                                                                 
+.\dist\main\main -n 1000 answers\answ01.txt                                                                 
+
 Описание ввода в файле Description
 
 Среднее время выполнения программы на тестах:                                                           
