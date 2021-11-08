@@ -1,0 +1,24 @@
+Filled Container 
+Container contains 7 elements.
+
+0: Film name: Odyssea , Date: 1995 It is gaming film, Producer: Vasovsky
+1: Film name: Coloss , Date: 2010 It is cartoon Type of Cartoon: dollhouse
+2: Film name: OnePiece , Date: 1998 It is documental film Film length: 1
+3: Film name: PlastilineWorld , Date: 2015 It is documental film Film length: 3
+4: Film name: BarakObama , Date: 2017 It is documental film Film length: 90
+5: Film name: Batman , Date: 2015 It is gaming film, Producer: Smith
+6: Film name: Naruto , Date: 2002 It is cartoon Type of Cartoon: drawn
+
+
+Sorted Container 
+Container contains 7 elements.
+
+0: Film name: PlastilineWorld , Date: 2015 It is documental film Film length: 3
+1: Film name: BarakObama , Date: 2017 It is documental film Film length: 90
+2: Film name: OnePiece , Date: 1998 It is documental film Film length: 1
+3: Film name: Odyssea , Date: 1995 It is gaming film, Producer: Vasovsky
+4: Film name: Naruto , Date: 2002 It is cartoon Type of Cartoon: drawn
+5: Film name: Coloss , Date: 2010 It is cartoon Type of Cartoon: dollhouse
+6: Film name: Batman , Date: 2015 It is gaming film, Producer: Smith
+
+

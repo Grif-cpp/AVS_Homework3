@@ -1,0 +1,30 @@
+Filled Container 
+Container contains 10 elements.
+
+0: Film name: dpzdlehjsidpqvxndpssxht , Date: 1965 It is cartoon Type of Cartoon: plastiline
+1: Film name: fqvgxtzmowywhfwfqrtbckximt , Date: 1975 It is gaming film, Producer: wgii
+2: Film name: tbxtfwoslwytoqfzvhctit , Date: 2002 It is cartoon Type of Cartoon: dollhouse
+3: Film name: pfdmmjwuzasmxs , Date: 1960 It is cartoon Type of Cartoon: dollhouse
+4: Film name: hnee , Date: 1948 It is cartoon Type of Cartoon: dollhouse
+5: Film name: xljtyyawdph , Date: 2005 It is cartoon Type of Cartoon: plastiline
+6: Film name: ygryjksixyfn , Date: 1992 It is gaming film, Producer: fobvj
+7: Film name: cbzidbydxtdhsomnjzuw , Date: 1991 It is cartoon Type of Cartoon: plastiline
+8: Film name: xiudkdnsmztvqbnpaokutons , Date: 2007 It is cartoon Type of Cartoon: dollhouse
+9: Film name: euzigukoqs , Date: 1946 It is documental film Film length: 50
+
+
+Sorted Container 
+Container contains 10 elements.
+
+0: Film name: fqvgxtzmowywhfwfqrtbckximt , Date: 1975 It is gaming film, Producer: wgii
+1: Film name: xiudkdnsmztvqbnpaokutons , Date: 2007 It is cartoon Type of Cartoon: dollhouse
+2: Film name: dpzdlehjsidpqvxndpssxht , Date: 1965 It is cartoon Type of Cartoon: plastiline
+3: Film name: tbxtfwoslwytoqfzvhctit , Date: 2002 It is cartoon Type of Cartoon: dollhouse
+4: Film name: cbzidbydxtdhsomnjzuw , Date: 1991 It is cartoon Type of Cartoon: plastiline
+5: Film name: pfdmmjwuzasmxs , Date: 1960 It is cartoon Type of Cartoon: dollhouse
+6: Film name: ygryjksixyfn , Date: 1992 It is gaming film, Producer: fobvj
+7: Film name: xljtyyawdph , Date: 2005 It is cartoon Type of Cartoon: plastiline
+8: Film name: euzigukoqs , Date: 1946 It is documental film Film length: 50
+9: Film name: hnee , Date: 1948 It is cartoon Type of Cartoon: dollhouse
+
+
